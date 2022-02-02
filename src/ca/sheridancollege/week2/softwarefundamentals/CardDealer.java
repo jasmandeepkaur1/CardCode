@@ -7,8 +7,9 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * The class where we create Cards
- * @author dancye, 2019
+ * @author jasmandeep kaur , 2019
  * this is first comment.
+ * student number 991649138
  */
 public class CardDealer 
 {
@@ -18,5 +19,6 @@ public class CardDealer
         
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        System.out.println("jasmandeep kaur ");
     }
 }
