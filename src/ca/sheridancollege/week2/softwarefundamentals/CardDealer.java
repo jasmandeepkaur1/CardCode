@@ -8,6 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * this is first comment.
  */
 public class CardDealer 
 {
