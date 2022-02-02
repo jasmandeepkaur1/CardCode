@@ -20,5 +20,8 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         System.out.println("jasmandeep kaur ");
+        System.out.println("suit ");
+        System.out.println("value ");
+        
     }
 }
